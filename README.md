@@ -1,2 +1,2 @@
-# -3073190
-№3073190
+# -CONFIGuration
+CONFIGuration
